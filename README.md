@@ -55,6 +55,9 @@ Furthermore, code to reproduce the results plot in the paper is provided:
 ```
 python3 utils/results_fig.py
 ```
+<p align="center">
+<img src="assets/results.png" width="600"/>
+</p>
 
 ## How to Cite
 If you find this code useful in your research, please cite the following publication:
